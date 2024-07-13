@@ -2,7 +2,7 @@
 
 ###
 
-<h5 align="left">I'm currently doing front-end development at the Tufts Center for Engineering Education and Outreach. On the side, I do various engineering and web dev projects:><a href="https://www.goldmanwilliam.com/"></a>.</h5>
+<h5 align="left">I'm currently doing front-end development at the Tufts Center for Engineering Education and Outreach. On the side, I do various engineering and web dev projects:<a href="https://www.goldmanwilliam.com/"></a>.</h5>
 
 ###
 
