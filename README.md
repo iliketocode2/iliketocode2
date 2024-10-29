@@ -2,7 +2,7 @@
 
 ###
 
-<h5 align="left">I'm currently doing front-end development at the Tufts Center for Engineering Education and Outreach. 🐘🐘</h5>
+<h5 align="left">I'm currently doing developing a test rig for the LEGO SPIKE at Tufts Center for Engineering Education and Outreach. 🐘🐘</h5>
 <h5>On the side, I do various engineering and web dev projects. Check out some cool stuff
   <a href="https://www.goldmanwilliam.com/" rel="noopener noreferrer" target="_blank"> here</a>
 !</h5>
