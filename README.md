@@ -6,6 +6,7 @@
 <h5>On the side, I do various engineering and web dev projects. Check out some cool stuff
   <a href="https://www.goldmanwilliam.com/" rel="noopener noreferrer" target="_blank"> here</a>
 !</h5>
+<h5>A lot of my projects are private (specifically those done in C++); feel free to reach out to see my other work!</h5>
 
 ###
 
@@ -28,10 +29,6 @@
   <img width="12" />
   <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" height="25" alt="C++ Logo"/>
 </div>
-
-###
-
-<p>A lot of my projects are private (specifically those done in C++); feel free to reach out to see my other work!</p>
 
 ###
 
