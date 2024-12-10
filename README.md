@@ -31,6 +31,10 @@
 
 ###
 
+<p>A lot of my projects are private (specifically those done in C++); feel free to reach out to see my other work!</p>
+
+###
+
 <h5 align="left">Contact Me:</h5>
 
 ###
