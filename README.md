@@ -26,7 +26,7 @@
     <img width="12" />
     <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" height="25" alt="C++ Logo"/>
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-line.svg" height="25" alt="Rust Logo"/>
+    <img src="https://github.com/rust-lang/rust-artwork/blob/master/logo/rust-logo-128x128.png?raw=true" height="25" alt="Rust Logo"/>
   </div>
 
   <div style="flex: 1; margin-left: 10px; text-align: center;">
