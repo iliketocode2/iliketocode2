@@ -25,6 +25,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java logo"  />
     <img width="12" />
     <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" height="25" alt="C++ Logo"/>
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="25" alt="Rust Logo"/>
   </div>
 
   <div style="flex: 1; margin-left: 10px; text-align: center;">
