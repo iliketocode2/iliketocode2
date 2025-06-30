@@ -5,7 +5,7 @@
 <p>I'm currently a Research Intern at the Tufts Center for Engineering Education and Outreach and a Full-Stack Developer for Tufts JumboCode! 🐘🐘</p>
 <p>On the side, I do various engineering and web dev projects. Check out some cool stuff
   <a href="https://www.goldmanwilliam.com/" rel="noopener noreferrer" target="_blank"> here</a>!</p>
-<p>A lot of my projects are private (specifically those done in C++); feel free to reach out to see my other work!</p>
+<p>A lot of my projects are private (specifically those done in C++ and Python); feel free to reach out to see my other work!</p>
 
 ###
 
