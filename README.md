@@ -1,7 +1,7 @@
 
 ## Hi, I'm Will!
 
-I'm currently a Research Intern at the Tufts Center for Engineering Education and Outreach, where I'm developing WebSocket and HTTP communication systems for microcontrollers. I'm building projects around these MicroPython WebSockets and integrating web interfaces using PyScript.
+I'm currently a Research Technology Intern at Tufts Technology Services (TTS), where I'm developing Open OnDemand web interface applications for the Tufts HPC cluster.
 
 On the side, I do various engineering and web dev projects. Check out some cool stuff [here](https://www.goldmanwilliam.com/)!
 
