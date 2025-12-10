@@ -31,9 +31,15 @@ A lot of my projects are private (specifically those done in C++ and Python); fe
     </td>
     <td align="center">
       <strong>Systems</strong><br>
-      &nbsp;&nbsp;<img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" width="25" height="25" alt="C++ Logo" /> 
+      &nbsp;&nbsp;
+      <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" width="25" height="25" alt="C++ Logo" /> 
       &nbsp;&nbsp;&nbsp;
-      <img src="https://github.com/rust-lang/rust-artwork/blob/master/logo/rust-logo-128x128.png?raw=true" width="25" height="25" alt="Rust Logo" />&nbsp;&nbsp;
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="25" height="25" alt="C Logo" /> 
+      &nbsp;&nbsp;&nbsp;
+      <img src="https://media.licdn.com/dms/image/v2/D4D12AQEM9F_-u1OT5Q/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1658763190886?e=2147483647&v=beta&t=aEp72fzTRZC_0EilFbT0wVV2jw6O-Bqt759qLG4pLrw" width="25" height="25" alt="ASM x86 Logo" /> 
+      &nbsp;&nbsp;&nbsp;
+      <img src="https://github.com/rust-lang/rust-artwork/blob/master/logo/rust-logo-128x128.png?raw=true" width="25" height="25" alt="Rust Logo" />
+      &nbsp;&nbsp;
     </td>
   </tr>
 </table>
