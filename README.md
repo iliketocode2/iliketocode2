@@ -36,7 +36,7 @@ A lot of my projects are private (specifically those done in C++ and Python); fe
       &nbsp;&nbsp;&nbsp;
       <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="25" height="25" alt="C Logo" /> 
       &nbsp;&nbsp;&nbsp;
-      <img src="https://i.pinimg.com/736x/25/a8/5d/25a85d9e5057430d82273a3c75e73014.jpg" width="25" height="25" alt="ASM x86 Logo" /> 
+      <img src="https://www.pngkey.com/png/full/479-4794953_assembly-x86-x86-icon.png" width="25" height="25" alt="ASM x86 Logo" /> 
       &nbsp;&nbsp;&nbsp;
       <img src="https://github.com/rust-lang/rust-artwork/blob/master/logo/rust-logo-128x128.png?raw=true" width="25" height="25" alt="Rust Logo" />
       &nbsp;&nbsp;
