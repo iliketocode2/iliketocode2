@@ -1,11 +1,13 @@
 
 ## Hi, I'm Will!
 
-I'm currently a Research Technology Intern at Tufts Technology Services (TTS), where I'm developing Open OnDemand web interface applications for the Tufts HPC cluster.
+I'm currently a Research Technology Intern at Tufts Technology Services (TTS), where I'm developing Open OnDemand web interface applications for the Tufts HPC cluster. I'm also the Project Lead for the [CubeSat team at Tufts](https://tufts-cubesat.vercel.app/) where we're working to develop a Low Earth Orbit imaging satellite.
 
-On the side, I do various engineering and web dev projects. Check out some cool stuff [here](https://www.goldmanwilliam.com/)!
+On the side, I do various engineering and web dev projects (including my work at [JumboCode](https://jumbocode.org/)!). Check out some cool stuff [on my website](https://www.goldmanwilliam.com/).
 
-A lot of my projects are private (specifically those done in C++ and Python); feel free to reach out to see my other work!
+I also enjoy contributing to open-source software projects. I've been working lately on the [PyScript Project](https://github.com/pyscript/pyscript) and [Invent](https://github.com/invent-framework/invent).
+
+A lot of my work is private due to academic integrity reasons (specifically those done in C++ and Python) so feel free to reach out to see my other work!
 
 ---
 
@@ -22,6 +24,8 @@ A lot of my projects are private (specifically those done in C++ and Python); fe
     <td align="center">
       <strong>Frontend</strong><br>
       &nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="25" height="25" alt="javascript logo" /> 
+      &nbsp;&nbsp;&nbsp;
+      <img src="https://github.com/user-attachments/assets/57d96b18-669e-472d-a610-c27e7e33cb2b" width="25" height="25" alt="typescript logo" /> 
       &nbsp;&nbsp;&nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="25" height="25" alt="reactjs logo" /> 
       &nbsp;&nbsp;&nbsp;
