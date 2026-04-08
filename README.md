@@ -5,7 +5,7 @@ I'm currently a Research Technology Intern at Tufts Technology Services (TTS), w
 
 On the side, I do various engineering and web dev projects (including my work at [JumboCode](https://jumbocode.org/)!). Check out some cool stuff [on my website](https://www.goldmanwilliam.com/).
 
-I also enjoy contributing to open-source software projects. I've been working lately on the [PyScript Project](https://github.com/pyscript/pyscript) and [Invent](https://github.com/invent-framework/invent).
+I also enjoy contributing to open-source software projects. I've been working lately on the [PyScript Project](https://github.com/pyscript/pyscript) and [Invent](https://github.com/invent-framework/invent). If you have any projects you need contributers for, please feel free to reach out!
 
 A lot of my work is private due to academic integrity reasons (specifically those done in C++ and Python) so feel free to reach out to see my other work!
 
