@@ -11,19 +11,6 @@ A lot of my work is private due to academic integrity reasons (specifically thos
 
 ---
 
-
-## Hi, I'm Will!
-
-I'm currently a Research Technology Intern at Tufts Technology Services (TTS), where I'm developing Open OnDemand web interface applications for the Tufts HPC cluster. I'm also the Project Lead for the [CubeSat team at Tufts](https://tufts-cubesat.vercel.app/) where we're working to develop a Low Earth Orbit imaging satellite. I'll be working at Draper this summer as a Process Automation Intern.
-
-On the side, I do various engineering and web dev projects (including my work at [JumboCode](https://jumbocode.org/)!). Check out some cool stuff [on my website](https://www.goldmanwilliam.com/) and on [Devpost](https://devpost.com/goldmanwilliam3?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav).
-
-I also enjoy contributing to open-source software projects. I've been working lately on the [PyScript Project](https://github.com/pyscript/pyscript) and [Invent](https://github.com/invent-framework/invent). If you have any projects you need contributers for, please feel free to reach out!
-
-A lot of my work is private due to academic integrity reasons (specifically those done in C++ and Python) so feel free to reach out to see my other work!
-
----
-
 <h3 align="center">Languages & Technologies</h3>
 
 <div align="center">
