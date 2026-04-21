@@ -1,7 +1,7 @@
 
 ## Hi, I'm Will!
 
-I'm currently a Research Technology Intern at Tufts Technology Services (TTS), where I'm developing Open OnDemand web interface applications for the Tufts HPC cluster. I'm also the Project Lead for the [CubeSat team at Tufts](https://tufts-cubesat.vercel.app/) where we're working to develop a Low Earth Orbit imaging satellite. I'll be working at Draper this summer as a Process Automation Intern.
+I'm currently a Research Technology Intern at Tufts Technology Services (TTS), where I'm developing Open OnDemand web interfaces and an Rclone app for the Tufts HPC cluster. I'm also the Project Lead for the [CubeSat team at Tufts](https://tufts-cubesat.vercel.app/) where we're working to develop a Low Earth Orbit imaging satellite. I'll be working at Draper this summer as a Process Automation Intern.
 
 On the side, I do various engineering and web dev projects (including my work at [JumboCode](https://jumbocode.org/)!). Check out some cool stuff [on my website](https://www.goldmanwilliam.com/) and on [Devpost](https://devpost.com/goldmanwilliam3?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav).
 
