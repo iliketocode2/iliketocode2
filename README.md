@@ -7,7 +7,7 @@ On the side, I do various engineering and web dev projects (including my work at
 
 I also enjoy contributing to open-source software projects. I've been working lately on the [PyScript Project](https://github.com/pyscript/pyscript), [Invent](https://github.com/invent-framework/invent), [OSC/ondemand](https://github.com/OSC/ondemand), and [Generalized ADCS](https://github.com/nscheuer/Generalized_ADCS). If you have any projects you need contributers for, please feel free to reach out!
 
-A lot of my work is private due to academic integrity reasons (specifically those done in C++ and Python) so feel free to reach out to see my other work!
+Some of my work, especially projects completed in C++ and Python coursework, is kept private for academic integrity reasons, so please contact me if you'd like to see additional projects.
 
 ---
 
